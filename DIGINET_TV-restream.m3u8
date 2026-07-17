@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2096000
+https://a8.radyotelekom.com.tr:3276/stream/play.m3u8
+https://ip.akkontv.com:3205/stream/play.m3u8
+https://a8.radyotelekom.com.tr:3059/stream/play.m3u8
+https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
+https://a8.radyotelekom.com.tr:3343/stream/play.m3u8
